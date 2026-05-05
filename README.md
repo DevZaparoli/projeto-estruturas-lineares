@@ -32,7 +32,32 @@ Copy code
 - Fila (FIFO): `fila[]` - implementada com lista Python
 - Operações: append() para enfileirar, pop(0) para desenfileirar
 - Estrutura de controle: while, if/elif/else
+🚀 3. Como executar o programa?
+Pré-requisitos
 
+Copy code
+- Python 3.x instalado
+- Nenhum pacote externo necessário (usa apenas biblioteca padrão)
+Passos para execução:
+Executar TODAS as atividades:
+
+bash
+
+Copy code
+# Salve cada código em arquivos separados:
+# 1. votacao.py
+# 2. editor_pilha.py  
+# 3. fila_atendimento.py
+
+python votacao.py
+python editor_pilha.py
+python fila_atendimento.py
+Ou execute tudo de uma vez (copie os 3 códigos em um arquivo atividades.py):
+
+bash
+
+Copy code
+python atividades.py
 📊 4. Exemplo simples de entrada e saída
 Atividade 1 - Votação
 
